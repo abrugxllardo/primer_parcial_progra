@@ -1,0 +1,602 @@
+[
+    {
+        "id": 74,
+        "titulo": "In America",
+        "genero": "drama",
+        "rating": 10.0
+    },
+    {
+        "id": 46,
+        "titulo": "36 Quai des Orfevres",
+        "genero": "accion",
+        "rating": 9.5
+    },
+    {
+        "id": 33,
+        "titulo": "The Snow White Murder Case",
+        "genero": "comedia",
+        "rating": 9.4
+    },
+    {
+        "id": 32,
+        "titulo": "Chance of a Lifetime",
+        "genero": "terror",
+        "rating": 9.3
+    },
+    {
+        "id": 45,
+        "titulo": "Presidents Man",
+        "genero": "terror",
+        "rating": 9.3
+    },
+    {
+        "id": 59,
+        "titulo": "1969",
+        "genero": "comedia",
+        "rating": 9.2
+    },
+    {
+        "id": 60,
+        "titulo": "Flying Down to Rio",
+        "genero": "accion",
+        "rating": 9.2
+    },
+    {
+        "id": 91,
+        "titulo": "Take Me Out to the Ball Game",
+        "genero": "drama",
+        "rating": 9.1
+    },
+    {
+        "id": 42,
+        "titulo": "Experiment in Terror",
+        "genero": "comedia",
+        "rating": 8.9
+    },
+    {
+        "id": 3,
+        "titulo": "Angry Silence",
+        "genero": "comedia",
+        "rating": 8.9
+    },
+    {
+        "id": 36,
+        "titulo": "Questioning Darwin",
+        "genero": "accion",
+        "rating": 8.9
+    },
+    {
+        "id": 18,
+        "titulo": "Chu Chin Chow",
+        "genero": "terror",
+        "rating": 8.9
+    },
+    {
+        "id": 15,
+        "titulo": "Dragonquest",
+        "genero": "comedia",
+        "rating": 8.8
+    },
+    {
+        "id": 20,
+        "titulo": "Boy Meets Boy",
+        "genero": "comedia",
+        "rating": 8.8
+    },
+    {
+        "id": 39,
+        "titulo": "Bone Collector",
+        "genero": "drama",
+        "rating": 8.8
+    },
+    {
+        "id": 5,
+        "titulo": "Disneyland Dream",
+        "genero": "comedia",
+        "rating": 8.7
+    },
+    {
+        "id": 9,
+        "titulo": "The Man From The Alamo",
+        "genero": "comedia",
+        "rating": 8.7
+    },
+    {
+        "id": 67,
+        "titulo": "Mystery Science Theater 3000",
+        "genero": "drama",
+        "rating": 8.7
+    },
+    {
+        "id": 73,
+        "titulo": "Deep Rising",
+        "genero": "drama",
+        "rating": 8.6
+    },
+    {
+        "id": 21,
+        "titulo": "Sgt Kabukiman",
+        "genero": "drama",
+        "rating": 8.6
+    },
+    {
+        "id": 1,
+        "titulo": "Docks of New York",
+        "genero": "terror",
+        "rating": 8.6
+    },
+    {
+        "id": 31,
+        "titulo": "Floundering",
+        "genero": "accion",
+        "rating": 8.3
+    },
+    {
+        "id": 88,
+        "titulo": "200 MPH",
+        "genero": "terror",
+        "rating": 8.1
+    },
+    {
+        "id": 56,
+        "titulo": "Minions",
+        "genero": "accion",
+        "rating": 8.0
+    },
+    {
+        "id": 14,
+        "titulo": "Casshern",
+        "genero": "accion",
+        "rating": 7.9
+    },
+    {
+        "id": 4,
+        "titulo": "Day After Trinity",
+        "genero": "drama",
+        "rating": 7.8
+    },
+    {
+        "id": 98,
+        "titulo": "Best Defense",
+        "genero": "drama",
+        "rating": 7.8
+    },
+    {
+        "id": 6,
+        "titulo": "Eenfance naked Childhood",
+        "genero": "terror",
+        "rating": 7.8
+    },
+    {
+        "id": 66,
+        "titulo": "My Sassy Girl",
+        "genero": "accion",
+        "rating": 7.7
+    },
+    {
+        "id": 76,
+        "titulo": "North to Alaska",
+        "genero": "drama",
+        "rating": 7.7
+    },
+    {
+        "id": 16,
+        "titulo": "North Face",
+        "genero": "drama",
+        "rating": 7.6
+    },
+    {
+        "id": 87,
+        "titulo": "Je appelle Elisabeth",
+        "genero": "drama",
+        "rating": 7.6
+    },
+    {
+        "id": 30,
+        "titulo": "Sometimes They Come Back",
+        "genero": "accion",
+        "rating": 7.6
+    },
+    {
+        "id": 92,
+        "titulo": "Silent House",
+        "genero": "drama",
+        "rating": 7.6
+    },
+    {
+        "id": 40,
+        "titulo": "Saturday Night Fever",
+        "genero": "accion",
+        "rating": 7.4
+    },
+    {
+        "id": 85,
+        "titulo": "Quicksilver Highway",
+        "genero": "drama",
+        "rating": 7.4
+    },
+    {
+        "id": 27,
+        "titulo": "Telefon",
+        "genero": "terror",
+        "rating": 7.4
+    },
+    {
+        "id": 77,
+        "titulo": "Doubt",
+        "genero": "accion",
+        "rating": 7.3
+    },
+    {
+        "id": 12,
+        "titulo": "Romantic Comedy",
+        "genero": "comedia",
+        "rating": 7.3
+    },
+    {
+        "id": 65,
+        "titulo": "10 000 timmar",
+        "genero": "accion",
+        "rating": 7.2
+    },
+    {
+        "id": 90,
+        "titulo": "Cheech and Chong",
+        "genero": "accion",
+        "rating": 6.9
+    },
+    {
+        "id": 28,
+        "titulo": "The Coven",
+        "genero": "accion",
+        "rating": 6.7
+    },
+    {
+        "id": 75,
+        "titulo": "Big Mommas Like Father",
+        "genero": "comedia",
+        "rating": 6.7
+    },
+    {
+        "id": 86,
+        "titulo": "Creepshow 2",
+        "genero": "accion",
+        "rating": 6.6
+    },
+    {
+        "id": 93,
+        "titulo": "Ordinary Decent Criminal",
+        "genero": "terror",
+        "rating": 6.6
+    },
+    {
+        "id": 94,
+        "titulo": "Erie Tales",
+        "genero": "comedia",
+        "rating": 6.5
+    },
+    {
+        "id": 19,
+        "titulo": "Cannibal Holocaust",
+        "genero": "accion",
+        "rating": 6.5
+    },
+    {
+        "id": 58,
+        "titulo": "Link",
+        "genero": "comedia",
+        "rating": 6.3
+    },
+    {
+        "id": 2,
+        "titulo": "Generals Daughter",
+        "genero": "comedia",
+        "rating": 6.2
+    },
+    {
+        "id": 97,
+        "titulo": "Vie en Rose",
+        "genero": "comedia",
+        "rating": 6.2
+    },
+    {
+        "id": 50,
+        "titulo": "Jill the Ripper",
+        "genero": "comedia",
+        "rating": 6.1
+    },
+    {
+        "id": 57,
+        "titulo": "Dragon Ball Z",
+        "genero": "drama",
+        "rating": 6.1
+    },
+    {
+        "id": 83,
+        "titulo": "Dodge City",
+        "genero": "accion",
+        "rating": 5.9
+    },
+    {
+        "id": 69,
+        "titulo": "My Favorite Martian",
+        "genero": "comedia",
+        "rating": 5.7
+    },
+    {
+        "id": 96,
+        "titulo": "Way We Laughed",
+        "genero": "comedia",
+        "rating": 5.6
+    },
+    {
+        "id": 44,
+        "titulo": "Summer in Berlin",
+        "genero": "comedia",
+        "rating": 5.5
+    },
+    {
+        "id": 99,
+        "titulo": "Jimmy Rosenberg",
+        "genero": "accion",
+        "rating": 5.4
+    },
+    {
+        "id": 53,
+        "titulo": "47 Ronin",
+        "genero": "terror",
+        "rating": 5.4
+    },
+    {
+        "id": 61,
+        "titulo": "Wednesday",
+        "genero": "comedia",
+        "rating": 5.2
+    },
+    {
+        "id": 52,
+        "titulo": "That Touch of Mink",
+        "genero": "drama",
+        "rating": 5.1
+    },
+    {
+        "id": 8,
+        "titulo": "How to Survive a Plague",
+        "genero": "terror",
+        "rating": 5.1
+    },
+    {
+        "id": 55,
+        "titulo": "Divorcee",
+        "genero": "accion",
+        "rating": 5.0
+    },
+    {
+        "id": 35,
+        "titulo": "With Love",
+        "genero": "drama",
+        "rating": 5.0
+    },
+    {
+        "id": 24,
+        "titulo": "The Tic Code",
+        "genero": "drama",
+        "rating": 4.9
+    },
+    {
+        "id": 11,
+        "titulo": "Musketeer",
+        "genero": "terror",
+        "rating": 4.6
+    },
+    {
+        "id": 82,
+        "titulo": "Rogue Cop",
+        "genero": "terror",
+        "rating": 4.5
+    },
+    {
+        "id": 41,
+        "titulo": "Brute The Bruto",
+        "genero": "comedia",
+        "rating": 4.4
+    },
+    {
+        "id": 51,
+        "titulo": "Robot Carnival",
+        "genero": "terror",
+        "rating": 4.4
+    },
+    {
+        "id": 10,
+        "titulo": "The Case of Lucky Legs",
+        "genero": "comedia",
+        "rating": 4.2
+    },
+    {
+        "id": 34,
+        "titulo": "Yonkers Joe",
+        "genero": "comedia",
+        "rating": 4.2
+    },
+    {
+        "id": 17,
+        "titulo": "Satans Tango ",
+        "genero": "terror",
+        "rating": 4.2
+    },
+    {
+        "id": 84,
+        "titulo": "Greatest Show on Earth",
+        "genero": "comedia",
+        "rating": 3.9
+    },
+    {
+        "id": 80,
+        "titulo": "Surfs Up",
+        "genero": "accion",
+        "rating": 3.9
+    },
+    {
+        "id": 72,
+        "titulo": "5 Deadly Venoms",
+        "genero": "drama",
+        "rating": 3.4
+    },
+    {
+        "id": 13,
+        "titulo": "Fall From Grace",
+        "genero": "accion",
+        "rating": 3.2
+    },
+    {
+        "id": 49,
+        "titulo": "Horrible Bosses 2",
+        "genero": "comedia",
+        "rating": 3.2
+    },
+    {
+        "id": 71,
+        "titulo": "Dr. Jack",
+        "genero": "accion",
+        "rating": 3.1
+    },
+    {
+        "id": 100,
+        "titulo": "You Kill Me",
+        "genero": "terror",
+        "rating": 3.1
+    },
+    {
+        "id": 89,
+        "titulo": "Phantom",
+        "genero": "drama",
+        "rating": 3.0
+    },
+    {
+        "id": 7,
+        "titulo": "Who Is John Galt",
+        "genero": "comedia",
+        "rating": 3.0
+    },
+    {
+        "id": 25,
+        "titulo": "Kick Ass",
+        "genero": "drama",
+        "rating": 2.9
+    },
+    {
+        "id": 81,
+        "titulo": "Carbon Copy",
+        "genero": "terror",
+        "rating": 2.9
+    },
+    {
+        "id": 47,
+        "titulo": "Raiders of the Lost Ark",
+        "genero": "drama",
+        "rating": 2.8
+    },
+    {
+        "id": 54,
+        "titulo": "Heartlands",
+        "genero": "drama",
+        "rating": 2.6
+    },
+    {
+        "id": 29,
+        "titulo": "Dirty Work",
+        "genero": "drama",
+        "rating": 2.6
+    },
+    {
+        "id": 68,
+        "titulo": "Mountaintop Motel Massacre",
+        "genero": "comedia",
+        "rating": 2.2
+    },
+    {
+        "id": 78,
+        "titulo": "Dark Horse",
+        "genero": "terror",
+        "rating": 2.2
+    },
+    {
+        "id": 43,
+        "titulo": "At the Earths Core",
+        "genero": "accion",
+        "rating": 2.0
+    },
+    {
+        "id": 48,
+        "titulo": "Taxi 4",
+        "genero": "accion",
+        "rating": 2.0
+    },
+    {
+        "id": 63,
+        "titulo": "Invaders from Mars",
+        "genero": "drama",
+        "rating": 1.9
+    },
+    {
+        "id": 79,
+        "titulo": "Kanine",
+        "genero": "comedia",
+        "rating": 1.9
+    },
+    {
+        "id": 95,
+        "titulo": "Cloverfield",
+        "genero": "terror",
+        "rating": 1.7
+    },
+    {
+        "id": 38,
+        "titulo": "Battlestar Galactica",
+        "genero": "terror",
+        "rating": 1.7
+    },
+    {
+        "id": 37,
+        "titulo": "Designing Woman",
+        "genero": "drama",
+        "rating": 1.4
+    },
+    {
+        "id": 22,
+        "titulo": "Naked in New York",
+        "genero": "terror",
+        "rating": 1.4
+    },
+    {
+        "id": 62,
+        "titulo": "Dawn Rider",
+        "genero": "drama",
+        "rating": 1.3
+    },
+    {
+        "id": 26,
+        "titulo": "In the Cut",
+        "genero": "terror",
+        "rating": 1.2
+    },
+    {
+        "id": 23,
+        "titulo": "American Winterr",
+        "genero": "comedia",
+        "rating": 1.0
+    },
+    {
+        "id": 64,
+        "titulo": "Ugly Truth",
+        "genero": "accion",
+        "rating": 1.0
+    },
+    {
+        "id": 70,
+        "titulo": "Pirates Who Dont Do Anything",
+        "genero": "comedia",
+        "rating": 1.0
+    }
+]
